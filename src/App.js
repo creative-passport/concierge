@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from "./CP-Logo-TransCol192x192.png";
+import byline from "./CP-ColGrad_TEXT.png";
 import './App.css';
 var QRCode = require('qrcode.react');
 
@@ -12,7 +13,7 @@ function App() {
           size={290}
           level={"L"}
           includeMargin={true} />
-        
+      <img src={byline} className="Byline" alt="logo" />
       </header>
     </div>
   );
