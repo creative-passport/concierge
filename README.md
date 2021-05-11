@@ -1,3 +1,6 @@
+# Project Archived
+
+This project it no longer being developed but is being kept for archival purposes. It will probably contain security vulnerabilities and should not be used.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
